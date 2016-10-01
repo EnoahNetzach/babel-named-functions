@@ -40,5 +40,5 @@ p4(undefined, undefined, 'Everything', 42)
 
 ## Set up
 
- - install `npm i -D EnoahNetzach/babylon babel-plugin-transform-named-functions`
+ - install `npm i -D EnoahNetzach/babylon EnoahNetzach/babel-plugin-check-es2015-constants babel-plugin-transform-named-functions`
  - add `transform-named-functions` to babel plugins
