@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-named-functions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Compile named functions to ES5",
   "repository": "https://github.com/EnoahNetzach/babel-named-functions/tree/master/packages/babel-plugin-transform-named-functions",
   "license": "MIT",
@@ -10,7 +10,7 @@
   ],
   "dependencies": {
     "babel-helper-named-functions": "^0.0.2",
-    "babel-plugin-syntax-named-functions": "^0.0.2"
+    "babel-plugin-syntax-named-functions": "^0.0.3"
   },
   "devDependencies": {},
   "peerDependencies": {
