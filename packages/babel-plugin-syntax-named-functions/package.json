@@ -9,5 +9,9 @@
     "babel-plugin"
   ],
   "dependencies": {},
-  "devDependencies": {}
+  "devDependencies": {},
+  "peerDependencies": {
+    "babel-plugin-check-es2015-constants": "EnoahNetzach/babel-plugin-check-es2015-constants",
+    "babylon": "EnoahNetzach/babylon"
+  }
 }

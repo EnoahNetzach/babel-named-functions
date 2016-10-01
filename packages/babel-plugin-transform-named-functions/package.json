@@ -12,5 +12,9 @@
     "babel-helper-named-functions": "^0.0.2",
     "babel-plugin-syntax-named-functions": "^0.0.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "peerDependencies": {
+    "babel-plugin-check-es2015-constants": "EnoahNetzach/babel-plugin-check-es2015-constants",
+    "babylon": "EnoahNetzach/babylon"
+  }
 }
