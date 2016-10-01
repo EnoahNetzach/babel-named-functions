@@ -1,5 +1,23 @@
 {
+  "scripts": {
+    "build": "npm run clear && node_modules/.bin/babel scripts/build.js | node",
+    "clear": "rimraf packages/**/lib"
+  },
   "devDependencies": {
-    "lerna": "2.0.0-beta.29"
+    "babel-cli": "^6.16.0",
+    "babel-core": "^6.16.0",
+    "babel-plugin-syntax-flow": "^6.13.0",
+    "babel-preset-es2015": "^6.16.0",
+    "lerna": "2.0.0-beta.29",
+    "rimraf": "^2.5.4"
+  },
+  "babel": {
+    "comments": false,
+    "presets": [
+      "es2015"
+    ],
+    "plugins": [
+      "syntax-flow"
+    ]
   }
 }
