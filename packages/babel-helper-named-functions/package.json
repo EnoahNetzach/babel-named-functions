@@ -1,0 +1,12 @@
+{
+  "name": "babel-helper-named-functions",
+  "version": "0.0.1",
+  "description": "A helper for supporting named functions",
+  "repository": "https://github.com/EnoahNetzach/babel-named-functions/tree/master/packages/babel-helper-named-functions",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "babel-template": "^6.8.0",
+    "babel-types": "^6.8.0"
+  }
+}
