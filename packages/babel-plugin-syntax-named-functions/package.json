@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-syntax-named-functions",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Allow parsing of named functions",
   "repository": "https://github.com/EnoahNetzach/babel-named-functions/tree/master/packages/babel-plugin-syntax-named-functions",
   "license": "MIT",
