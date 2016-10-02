@@ -1,6 +1,6 @@
 import { transformNamedFunction, transformNamedCallExpression } from 'babel-helper-named-functions'
 
-export default ({ types }) => ({
+export default () => ({
   inherits: require('babel-plugin-syntax-named-functions'),
 
   visitor: {
