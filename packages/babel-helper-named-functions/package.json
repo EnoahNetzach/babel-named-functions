@@ -1,6 +1,6 @@
 {
   "name": "babel-helper-named-functions",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "A helper for supporting named functions",
   "repository": "https://github.com/EnoahNetzach/babel-named-functions/tree/master/packages/babel-helper-named-functions",
   "license": "MIT",
